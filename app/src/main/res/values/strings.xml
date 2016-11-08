@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">RxPlay</string>
+    <string name="git_username">Enter the username</string>
+    <string name="fetch_repos">Fetch Repos</string>
+    <string name="username_error">Please enter the username</string>
+    <string name="map_operator">Map Operator</string>
+    <string name="flat_map">Flat Map</string>
+    <string name="common_operators">Common Operators</string>
+    <string name="retrofit">Retrofit</string>
+    <string name="operators">Operators</string>
+    <string name="the_string_is">The String is</string>
+    <string name="the_result_is">The result is</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="just">Just</string>
+    <string name="from">From</string>
+    <string name="range">Range</string>
+    <string name="debounce">Debounce</string>
+    <string name="filter">Filter</string>
+    <string name="interval_delay">Interval / Delay</string>
+    <string name="map">Map</string>
+    <string name="merge">Merge</string>
+    <string name="combined_map_filter">Combined Map Filter</string>
+    <string name="last">Last</string>
+    <string name="enter_some_random_text">Enter some random text</string>
+    <string name="submit">Submit</string>
+    <string name="random_text">Random Text</string>
+    <string name="title">Title : </string>
+    <string name="description">Description : </string>
+    <string name="url">Url : </string>
+    <string name="create">Create</string>
+    <string name="pretty_time">Pretty Time</string>
+    <string name="start_gps_service">Start Gps Service</string>
+    <string name="tracking_your_gps_location">Tracking your location</string>
+    <string name="stop_gps_service">Stop Gps Service</string>
+    <string name="picker">Picker</string>
+</resources>

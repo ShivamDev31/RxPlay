@@ -1,0 +1,25 @@
+ext {
+    config = [
+            compileSdkVersion           : 25,
+            buildToolsVersion           : "25.0.0",
+            applicationId               : "com.shivamdev.rxplay",
+            minSdkVersion               : 15,
+            targetSdkVersion            : 25,
+            versionCode                 : 1,
+            versionName                 : "1.0"
+    ]
+
+    libs = [
+            support                 : "25.0.0",
+            playServices            : "9.6.1",
+            rxJava                  : "1.1.8",
+            rxAndroid               : "1.2.1",
+            rxbinding               : "0.4.0",
+            rxLocation              : "0.10",
+            retrofit                : "2.1.0",
+            gson                    : "2.7",
+            okhttp                  : "3.4.0",
+            dagger                  : "2.7",
+            butterknife             : "8.1.0"
+    ]
+}
